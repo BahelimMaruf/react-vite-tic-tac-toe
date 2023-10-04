@@ -1,0 +1,14 @@
+.box{
+    background-color: #fff;
+    border: none;
+    box-shadow: 0px 0px 10px #888;
+    border-radius: 10%;
+    width: 5rem;
+    height: 5rem;
+    font-size: 5em;
+    text-align: center;
+    font-weight: bold;
+    line-height: 0rem;
+    padding-bottom: 20px;
+    margin-top: 2rem;
+}
